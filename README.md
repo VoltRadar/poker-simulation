@@ -1,5 +1,5 @@
 # poker-simulation
-Simulation of the game Texas Hold'em Poker. Contains the ability to play over the internet and with AI
+Simulation of the game Texas Hold'em Poker using Python. Contains the ability to play over the internet and with AI
 
 WARNING: This project has very limited testing related to security of its use of web sockets.
 This was written as a school project, and may be vulnerable to seveal methods of attack.
@@ -19,3 +19,5 @@ playing. Iteraction is only via python termial.
 
 
 Every 5 games, the minium bet is doubled. If an AI goes bankrupt, another AI takes there place
+
+Python 3 is required to run the program
