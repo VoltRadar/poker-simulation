@@ -5,6 +5,7 @@ WARNING: This project has very limited testing related to security of its use of
 This was written as a school project, and may be vulnerable to seveal methods of attack.
 I wouldn't use this program with a network or players you do not trust.
 
+Written in Python 3, requiring (I'm pretty sure) no other exturnal libarys
 
 This project contains two parts: House.py, and Player.py
 
@@ -19,5 +20,3 @@ playing. Iteraction is only via python termial.
 
 
 Every 5 games, the minium bet is doubled. If an AI goes bankrupt, another AI takes there place
-
-Python 3 is required to run the program
